@@ -4,5 +4,5 @@ This project is a simple web-based clothing shop application that allows users t
 ##Features
 
 *Product Listing:* Displays a list of available products with their details.  
-*Shopping Cart:* Allows users to add items to their cart, view the cart, increment/decrement item quantities, and remove items from the cart.
+*Shopping Cart:* Allows users to add items to their cart, view the cart, increment/decrement item quantities, and remove items from the cart. 
 *Persistent Storage:* Uses localStorage to maintain cart data even after the page is refreshed.
